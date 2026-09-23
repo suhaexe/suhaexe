@@ -1,3 +1,6 @@
+<img width="1600" height="600" alt="my banner" src="https://github.com/user-attachments/assets/5eabbcce-4c34-4d8b-ab98-b3c62c182632" />
+
+
 <h1 align="center">Hi 👋, I'm Suha.</h1>
 <h3 align="center">A passionate junior developer who is still learning.</h3>
 
